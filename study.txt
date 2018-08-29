@@ -1,0 +1,7 @@
+1.访问授权策略
+https://www.cnblogs.com/quyixuanblog/p/5213503.html
+
+AffirmativeBased
+ConsensusBased 基于共识
+UnanimousBased
+http://blog.csdn.net/honghailiang888/article/details/53925514

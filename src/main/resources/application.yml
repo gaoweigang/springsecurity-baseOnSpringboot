@@ -1,0 +1,10 @@
+spring:
+     mvc:
+       view: 
+         prefix: /assets/
+         suffix: .html
+       
+
+server:
+     port: 8088
+     
